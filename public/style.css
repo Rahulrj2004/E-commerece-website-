@@ -120,7 +120,7 @@ button.normal {
 
 /* home page */
 #hero {
-  background-image: url(public/images/hero4.png);
+  background-image: url(./images/hero4.png);
   width: 100%;
   height: 90vh;
   background-size: cover;
@@ -141,7 +141,7 @@ button.normal {
 }
 
 #hero button {
-  background-image: url(public/images/button.png);
+  background-image: url(./images/button.png);
   background-color: transparent;
   color: #088178;
   border: 0;
@@ -293,7 +293,7 @@ button.normal {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url(public/images/b2.jpg);
+  background-image: url(./images/b2.jpg);
   width: 100%;
   height: 40vh;
   background-size: cover;
@@ -325,7 +325,7 @@ button.normal {
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  background-image: url(public/images/b14.png);
+  background-image: url(./images/b14.png);
   background-repeat: no-repeat;
   background-position: 20% 30%;
   background-color: #041e42;
@@ -437,7 +437,7 @@ footer a:hover {
 /* shop page */
 #page-header
 {
-  background-image: url(public/images/b1.jpg);
+  background-image: url(./images/b1.jpg);
   width: 100%;
   height: 40vh;
   background-size: cover;
@@ -535,7 +535,7 @@ footer a:hover {
 /* blog page  */
 
 #page-header.blog-header{
-  background-image: url(public/images/b19.jpg);
+  background-image: url(./images/b19.jpg);
 }
 
 #blog{
@@ -606,7 +606,7 @@ footer a:hover {
 /* about page  */
 
 #page-header.about-header{
-  background-image: url(public/images/k5.jpg);
+  background-image: url(./images/k5.jpg);
   background-position:right;
 }
 
